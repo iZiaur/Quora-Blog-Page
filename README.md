@@ -20,9 +20,6 @@ Storage: In-memory (no database required, ideal for learning)
 📦 Installation
 Clone the repository:
 
-
-git clone https://github.com/your-username/simple-quora-clone.git
-cd simple-quora-clone
 Install dependencies:
 you can run npm command as json file automatically installs all the dependencies
 
