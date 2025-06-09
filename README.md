@@ -33,12 +33,18 @@ Visit the app in your browser:
 
 
 http://localhost:3000
+
+
+
 📁 Folder Structure
 
 ├── public/         # Static files (CSS)
 ├── views/          # EJS templates
 ├── app.js          # Main application file
 ├── package.json    # Node.js dependencies
+
+
+
 🧪 Use Case
 Perfect for beginners looking to:
 
